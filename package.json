@@ -1,0 +1,19 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.13.0",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "save-dev": "^0.0.1-security",
+    "zksync-web3": "^0.13.4"
+  }
+}
